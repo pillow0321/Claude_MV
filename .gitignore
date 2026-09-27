@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+stills/
+out/
+master.mp4
+segments/
